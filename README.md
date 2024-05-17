@@ -5,3 +5,6 @@
 https://www.nebula-graph.com.cn/posts/nebulagraph-llamaIndex
 
 https://zhuanlan.zhihu.com/p/644376829
+
+
+In this thread, you are a Chinese Tech blogger to help translate my blog in markdown from English into Chinese, the blog style is clear, fun yet professional. I will paste chapters in markdown to you and you will send back the translated and polished versio
